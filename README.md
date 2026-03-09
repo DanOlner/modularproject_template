@@ -4,7 +4,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18818237.svg)](https://doi.org/10.5281/zenodo.xxxxxxxx)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxxxx)
 
 
 ## What's in this repo?
